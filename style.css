@@ -111,3 +111,44 @@ body{
     border-color:#827ac5 ;
     
 }
+footer{
+    background: #0B0D17;
+    padding: 50px 0;
+}
+
+.google-apple h4{
+    color: white;
+}
+
+.fa-apple{
+    color: white;
+    margin-right: 15px;
+    font-size: 30px;
+}
+.bg-footer{
+    background-color: black;
+    height: 40px;
+    width: 150px; 
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid cyan;
+
+
+}
+.bg-footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+.fa-google-play{
+    color: white;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.text-left p{
+    margin-top: 70px;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+}
