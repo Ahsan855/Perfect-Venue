@@ -34,3 +34,80 @@ body{
     color: white;
     font-size: 16px;
 }
+.info-moment p{
+    font-size: 16px;
+    line-height: 28px;
+
+
+}
+.info-moment .color-btn{
+    margin-top: 30px;
+    background-color: purple;
+    border-radius: 10px;
+    border-color: purple;
+    padding: 15px 30px;
+}
+.info-moment .color-btn a{
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+/* card */
+.card-body ul li{
+    list-style: none;
+    margin: 20px 0;
+    color: #848199;
+
+}
+.card-body p{
+    color: #848199;
+}
+.card-body ul li i{
+    color: #5243C2;
+    font-size: 20px;
+    margin-right: 15px;
+}
+.choose-plan a{
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 18px;
+    color: #6d5ed8;
+}
+.choose-plan{
+    margin-top: 20px;
+    padding: 20px 50px;
+    border-radius: 35px;
+    border-color:#827ac5;
+    
+}
+
+.bg-dibo{
+    background: #5243C2;
+}
+.bg-dibo h1,h3{
+    color: white;
+}
+.bg-dibo p{
+    color: white;
+}
+.bg-dibo ul li{
+    color: white;
+}
+.card-body ul li .color-white{
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+}
+.choose-plan-light a{
+    font-weight: 600;
+    text-decoration: none;
+    color: #6f66c0;
+}
+.choose-plan-light{
+    margin-top: 20px;
+    padding: 20px 50px;
+    border-radius: 35px;
+    border-color:#827ac5 ;
+    
+}
