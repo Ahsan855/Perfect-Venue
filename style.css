@@ -5,11 +5,14 @@ body{
     background: #E5E5E5;
 }
 .btn-custom{
-    padding: 8px 25px;
-    background-color: rgb(4, 245, 245);
-    border-color: cyan;
+    padding: 10px 35px;
+    background-color: purple;
+    border-color: purple;
     border-radius: 10px;
     
+}
+.btn-custom:hover a{
+    color: white;
 }
 .btn-custom a{
     color: white;
@@ -60,6 +63,18 @@ body{
     color: #848199;
 
 }
+.card-body h1{
+    color: #383870;
+    font-weight: 700;
+}
+.card-body h3{
+    color: #383870;
+    font-weight: 600;
+}
+.card-body .h3{
+    color: white;
+    font-weight: 600;
+}
 .card-body p{
     color: #848199;
 }
@@ -69,7 +84,7 @@ body{
     margin-right: 15px;
 }
 .choose-plan a{
-    font-weight: 600;
+    font-weight: 800;
     text-decoration: none;
     font-size: 18px;
     color: #6d5ed8;
@@ -78,7 +93,7 @@ body{
     margin-top: 20px;
     padding: 20px 50px;
     border-radius: 35px;
-    border-color:#827ac5;
+    border-color: #F496D1;
     
 }
 
@@ -100,7 +115,7 @@ body{
     margin-right: 15px;
 }
 .choose-plan-light a{
-    font-weight: 600;
+    font-weight: 800;
     text-decoration: none;
     color: #6f66c0;
 }
