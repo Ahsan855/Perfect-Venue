@@ -176,6 +176,9 @@ footer{
     .position-section{
         position: relative;
     }
+    .img-respo{
+        width: 350px;
+    }
     .position-section .inner-content {
         position: absolute;
         top: 50px;
