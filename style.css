@@ -26,8 +26,9 @@ body{
 }
 .position-section .inner-content{
     position: absolute;
-    top: 350px;
-    left: 50px;
+    top: 700px;
+    left: 250px;
+
 }
 .inner-content h1{
     font-size: 48px;
@@ -256,8 +257,8 @@ footer{
     }
     .position-section .inner-content {
         position: absolute;
-        top: 0px;
-        left: 0px;
+        top: 6px;
+        left: -50px;
     }
  }
 
