@@ -248,7 +248,14 @@ footer{
 
 
 @media (min-width: 768px) { 
-
+    .position-section{
+        position: relative;
+    }
+    .position-section .inner-content {
+        position: absolute;
+        top: 100px;
+        left: -50px;
+    }
  }
 
 
