@@ -161,17 +161,88 @@ footer{
     margin-right: 10px;
     font-size: 20px;
 }
-.text-left p{
-    margin-top: 70px;
+.text-left-color{
     color: white;
     font-size: 18px;
-    text-align: left;
+}
+.bold-korbo{
+    font-size: 40px;
+    font-weight: 900;
 }
 
 /* Ressponsive with css  */
 
 @media (max-width: 576px) { 
-    
+    .position-section{
+        position: relative;
+    }
+    .position-section .inner-content {
+        position: absolute;
+        top: 100px;
+        left: -50px;
+    }
+    .position-section p{
+        font-size: 10px;
+    }
+    .position-section h1{
+        font-size: 16px;
+    }
+    .soto-img{
+        width: 300px;
+    }
+
+    /* .soto-img{
+        width: 255px;
+        height: 300px;
+    }
+    .color-btn a{
+        font-size: 15px;
+        padding: 0;
+        font-weight: 400;
+    }
+    .info-moment{
+        width: 240px;
+        height: 300px;
+    }
+    .card-body{
+        width: 250px;
+        height: auto;
+    }
+    .soto-card{
+        margin-top: 30px;
+        width: 240px;
+        height: 350px;
+
+    }
+    .cus-respo{
+        width: 250px;
+        height: auto;
+    }
+    .cus-respo .btn-custom{
+        width: 180px;
+    }
+    .btn-custom{
+        font-size: 18px;
+       margin-right: 100px;
+    }
+    .soto-res{
+        font-size: 16px;
+        font-weight: bold;
+        margin-right: 100px;
+    }
+    .accordion{
+        width: 260px;
+        height: auto;
+    }
+    .img-respo{
+        width: 250px;
+        height:auto;
+    }
+    footer{
+        width: 256px;
+        height:auto;
+        text-align: center;
+    } */
 
 }
 
